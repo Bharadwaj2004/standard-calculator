@@ -22,6 +22,7 @@ Step 7: Validate the HTML and CSS code.
 
 Step 8: Publish the website in the given URL.
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -251,6 +252,7 @@ body {
   font-size: 2.5rem;
 }
 </style>
+```
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/119560345/215310400-e97cf2ae-a724-4986-8cd3-75bf0497b157.png)
 
